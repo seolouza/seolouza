@@ -1,4 +1,4 @@
-Hello! Im Leonardo Trindade, 21, student 
+Hello! Im Leonardo Trindade, 21, student.
 
 <div align="center">
   <a href="https://github.com/seolouza">

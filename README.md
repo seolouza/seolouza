@@ -1,4 +1,4 @@
-Hello! Im Leonardo Trindade, 21, student.
+Hello! Im Leonardo Trindade, 21, Interdisciplinary bachelor's degree student in science and technology at UFBA.
 
 <div align="center">
   <a href="https://github.com/seolouza">
